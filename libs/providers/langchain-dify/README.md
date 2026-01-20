@@ -2,6 +2,8 @@
 
 This package contains the LangChain.js integrations for dify.
 
+**It's just a toy, so use it with caution in your project.**
+
 ## Build
 
 In your project's root directory, execute commands:
